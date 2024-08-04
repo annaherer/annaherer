@@ -15,10 +15,10 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/hereranna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hereranna" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/annaherer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annaherer" height="30" width="40" /></a>
 <a href="https://fb.com/annaherer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="annaherer" height="30" width="40" /></a>
 <a href="https://instagram.com/anna.herer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anna.herer" height="30" width="40" /></a>
+<a href="https://twitter.com/hereranna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hereranna" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Skillset</h2>
