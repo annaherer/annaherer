@@ -69,7 +69,9 @@
 <a href="https://www.jython.org/" target="_blank" rel="noreferrer"> <img src="https://www.sprezzatech.com/wiki/images/1/10/Jython.svg" alt="Jython" width="80" height="40"/></a>
 <a href="https://www.py4j.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/99001623?s=200&v=4" alt="Py4J" width="40" height="40"/></a>
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180518/rkq/kisspng-junit-software-testing-spring-framework-unit-testi-5afe8b5d5ea514.5016979515266312613877.jpg" alt="JUnit" width="60" height="40"/></a>
-<a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" alt="Mockito" width="80" height="40"/></a>  
+<a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" alt="Mockito" width="80" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://seekvectorlogo.com/wp-content/uploads/2018/12/docker-vector-logo-small.png" alt="Docker" width="50" height="40"/></a>
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/rabbitmq6018.jpg" alt="RabbitMQ" width="60" height="40"/></a>
 </p>
 
 <h2 align="left">My stats</h2>
