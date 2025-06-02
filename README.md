@@ -52,15 +52,21 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 
+<h3 align="left">IDE</h3>
+<p align="left">
+<a href="https://www.jetbrains.com/idea/#"> <img src="https://logowik.com/content/uploads/images/intellij-idea286.logowik.com.webp" alt="intellij" width="60" height="40"/></a>
+<a href="https://www.jetbrains.com/pycharm/#"> <img src="https://logowik.com/content/uploads/images/pycharm6005.logowik.com.webp" alt="pycharm" width="60" height="40"/></a>
+<a href="https://visualstudio.microsoft.com/vs/"> <img src="https://logowik.com/content/uploads/images/6668-.webp" alt="visualstudio" width="60" height="40"/></a>
+
 <h3 align="left">Artificial Intelligence</h3>
 <p align="left">
-<a href="https://chatgpt.com/"><img src="https://logowik.com/content/uploads/images/chatgpt5223.logowik.com.webp" alt="chatgpt" width="40" height="40"/></a>
-<a href="https://claude.ai/"><img src="https://logowik.com/content/uploads/images/claude-ai9117.logowik.com.webp" alt="claude" width="60" height="40"/></a>
-<a href="https://www.anthropic.com/"><img src="https://logowik.com/content/uploads/images/anthropic-ai4629.logowik.com.webp" alt="anthropic" width="40" height="40"/></a>
-<a href="https://www.perplexity.ai/"><img src="https://logowik.com/content/uploads/images/perplexity4312.logowik.com.webp" alt="perplexity" width="60" height="40"/></a>
-<a href="https://runwayml.com/"><img src="https://logowik.com/content/uploads/images/runway-ai5327.logowik.com.webp" alt="runway" width="60" height="40"/></a>
+<a href="https://chatgpt.com/"><img src="https://logowik.com/content/uploads/images/chatgpt5223.logowik.com.webp" alt="chatgpt" width="60" height="40"/></a>
+<a href="https://claude.ai/"><img src="https://logowik.com/content/uploads/images/claude-ai9117.logowik.com.webp" alt="claude" width="70" height="40"/></a>
+<a href="https://www.anthropic.com/"><img src="https://logowik.com/content/uploads/images/anthropic-ai4629.logowik.com.webp" alt="anthropic" width="60" height="40"/></a>
+<a href="https://www.perplexity.ai/"><img src="https://logowik.com/content/uploads/images/perplexity4312.logowik.com.webp" alt="perplexity" width="70" height="40"/></a>
+<a href="https://runwayml.com/"><img src="https://logowik.com/content/uploads/images/runway-ai5327.logowik.com.webp" alt="runway" width="70" height="40"/></a>
 <a href="https://www.midjourney.com/explore?tab=top"><img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Midjourney_Emblem.svg" alt="midjourney" width="40" height="40"/></a>
-<a href="https://sora.chatgpt.com/explore"><img src="https://logowik.com/content/uploads/images/openai-sora-new8360.logowik.com.webp" alt="sora" width="40" height="40"/></a>
+<a href="https://sora.chatgpt.com/explore"><img src="https://logowik.com/content/uploads/images/openai-sora-new8360.logowik.com.webp" alt="sora" width="60" height="40"/></a>
 <a href="https://replit.com/"><img src="https://logowik.com/content/uploads/images/replit4759.logowik.com.webp" alt="replit" width="60" height="40"/></a>
 <a href="https://www.firecrawl.dev/"><img src="https://raw.githubusercontent.com/mendableai/firecrawl/main/img/firecrawl_logo.png" alt="firecrawl" width="40" height="40"/></a>
 <a href="https://www.make.com/en"><img src="https://logowik.com/content/uploads/images/make-formerly-integromat4278.logowik.com.webp" alt="make" width="60" height="40"/></a>
@@ -80,9 +86,9 @@
 
 <h3 align="left">Currently learning</h3>
 <p align="left">
-<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180518/rkq/kisspng-junit-software-testing-spring-framework-unit-testi-5afe8b5d5ea514.5016979515266312613877.jpg" alt="JUnit" width="60" height="40"/></a>
+<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180518/rkq/kisspng-junit-software-testing-spring-framework-unit-testi-5afe8b5d5ea514.5016979515266312613877.jpg" alt="JUnit" width="50" height="40"/></a>
 <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" alt="Mockito" width="80" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://seekvectorlogo.com/wp-content/uploads/2018/12/docker-vector-logo-small.png" alt="Docker" width="50" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/docker-applicaton-development8084.logowik.com.webp" alt="Docker" width="80" height="40"/></a>
 <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/rabbitmq6018.jpg" alt="RabbitMQ" width="60" height="40"/></a>
 <a href="https://www.jython.org/" target="_blank" rel="noreferrer"> <img src="https://www.sprezzatech.com/wiki/images/1/10/Jython.svg" alt="Jython" width="80" height="40"/></a>
 <a href="https://www.py4j.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/99001623?s=200&v=4" alt="Py4J" width="40" height="40"/></a>
